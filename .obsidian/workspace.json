@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d271c4a40b2faf89",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81b6c7a14aa6b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec2806441163938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e4ad6a710b695e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "392c4b5731764c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "df05bfb13f8ae252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1c51a1e0090974",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0a5edb61620bd11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c923050dbb580207",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa9cabfd170bc38a",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fb14e473bfbf56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19fc0f6ce0918ac4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c29a65a38af2b75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af7ba72f4bc5e234",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ee2dd9a2728e2ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "00e4ad6a710b695e",
+  "lastOpenFiles": [
+    "Тестирование/Unit-тестирование JS/Честность и хрупкость.md",
+    "Тестирование/Unit-тестирование JS/Структура Unit-теста.md",
+    "Тестирование/Unit-тестирование JS/TDD/TDD.md",
+    "Тестирование/Unit-тестирование JS/Заглушки/Виды загрушек.md",
+    "Тестирование/Unit-тестирование JS/Заглушки/Pasted image 20220911121950.png",
+    "Тестирование/Unit-тестирование JS/Заглушки/Stub.md",
+    "Тестирование/Unit-тестирование JS/Фикстуры/Фикстуры.md",
+    "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md",
+    "Тестирование/Unit-тестирование JS/TDD/Pasted image 20220911141921.png",
+    "2022-11-01.md"
+  ]
+}
