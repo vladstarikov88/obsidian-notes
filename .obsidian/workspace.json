@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4d025f50e04c5d0f",
+        "id": "fb9b1b98a19614a1",
         "type": "tabs",
         "children": [
           {
-            "id": "542ff4a4ca0bbcc1",
+            "id": "d6546100af18ae5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура/Анти-паттерны/God object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09dd31a7f3f5416d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md"
+              }
             }
           }
         ]
@@ -138,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "542ff4a4ca0bbcc1",
+  "active": "09dd31a7f3f5416d",
   "lastOpenFiles": [
     "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
-    "Untitled 1.canvas",
-    "Архитектура/Анти-паттерны/Good object.md",
-    "Тестирование/Unit-тестирование JS/Заглушки/Stub.md",
-    "Тестирование/Unit-тестирование JS/Заглушки/Виды загрушек.md",
-    "Тестирование/Unit-тестирование JS/Честность и хрупкость.md",
-    "Тестирование/Unit-тестирование JS/Структура Unit-теста.md",
-    "Протоколы/HTTP.md",
-    "Черновик.md",
-    "Untitled.md"
+    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
+    "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+    "Архитектура/SOLID/4. ISP - Interface segregation principle.md",
+    "Архитектура/Анти-паттерны/Soft code.md",
+    "Архитектура/Анти-паттерны/God object.md",
+    "Архитектура/GRASP/Protected Variantions.md",
+    "JS/Event loop/Micro and Macro tasks.md",
+    "JS/Event loop/Event loop.md",
+    "JS/Event loop/JS Engine.md"
   ]
 }
