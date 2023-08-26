@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9b1b98a19614a1",
+        "id": "e37b0d8fd92742f2",
         "type": "tabs",
         "children": [
           {
-            "id": "d6546100af18ae5c",
+            "id": "e4e2140befbff4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура/Анти-паттерны/God object.md",
+                "file": "JS/Event loop/Wep api.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09dd31a7f3f5416d",
+            "id": "4cc5013c0dfce18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+                "file": "Черновик.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "54240fe8631ae463",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "fa9cabfd170bc38a",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+                "file": "Черновик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+                "file": "Черновик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура/SOLID/3. LSP - Liskov substitution principle.md"
+                "file": "Черновик.md"
               }
             }
           }
@@ -159,17 +167,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09dd31a7f3f5416d",
+  "active": "4cc5013c0dfce18f",
   "lastOpenFiles": [
-    "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
-    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
-    "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
-    "Архитектура/SOLID/4. ISP - Interface segregation principle.md",
-    "Архитектура/Анти-паттерны/Soft code.md",
-    "Архитектура/Анти-паттерны/God object.md",
-    "Архитектура/GRASP/Protected Variantions.md",
+    "JS/Event loop/Wep api.md",
     "JS/Event loop/Micro and Macro tasks.md",
     "JS/Event loop/Event loop.md",
-    "JS/Event loop/JS Engine.md"
+    "JS/Event loop/JS Engine.md",
+    "Черновик.md",
+    "Браузер/Архитектура движка рендера.md",
+    "Тестирование/Pasted image 20230715233044.png",
+    "Браузер/Pasted image 20230715232908.png",
+    "Браузер",
+    "JS/Event loop/assets/Pasted image 20230218144525.png",
+    "JS/Event loop/assets/Pasted image 20230218143506.png",
+    "JS/Event loop/assets/Pasted image 20230218125351.png",
+    "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
+    "Архитектура/SOLID/5. DIP - Dependency inversion principle.md",
+    "Архитектура/SOLID/4. ISP - Interface segregation principle.md",
+    "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
+    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
+    "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
+    "Архитектура/Паттерны/Закон Деметры.md",
+    "Архитектура/Паттерны/DRY.md",
+    "Архитектура/Анти-паттерны/Soft code.md",
+    "Архитектура/Паттерны/KISS.md",
+    "Архитектура/GRASP/Protected Variantions.md",
+    "Архитектура/Анти-паттерны/God object.md"
   ]
 }
