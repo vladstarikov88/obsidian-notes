@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e37b0d8fd92742f2",
+        "id": "344208105ee7d4c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e2140befbff4d9",
+            "id": "5f561fa748cf9853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Event loop/Wep api.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cc5013c0dfce18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Черновик.md",
+                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 218.5
   },
   "right": {
     "id": "fa9cabfd170bc38a",
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Черновик.md",
+                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Черновик.md",
+                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Черновик.md"
+                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md"
               }
             }
           }
@@ -167,31 +154,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc5013c0dfce18f",
+  "active": "5f561fa748cf9853",
   "lastOpenFiles": [
-    "JS/Event loop/Wep api.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Тестирование/Unit-тестирование JS/Заглушки/Виды загрушек.md",
+    "2023-11-05.md",
+    "Тестирование/Unit-тестирование JS/Заглушки/Pasted image 20220911121950.png",
+    "Тестирование/Unit-тестирование JS/Заглушки/Stub.md",
+    "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
+    "Архитектура/Паттерны/Закон Деметры.md",
+    "Архитектура/Паттерны/DRY.md",
+    "Архитектура/Паттерны/KISS.md",
+    "Архитектура/Анти-паттерны/Soft code.md",
+    "Архитектура/Анти-паттерны/God object.md",
+    "Протоколы/HTTP.md",
+    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
+    "Архитектура/Untitled.md",
+    "Templates.md",
+    "Браузер/Архитектура движка рендера.md",
+    "JS/Event loop/JS Engine.md",
     "JS/Event loop/Micro and Macro tasks.md",
     "JS/Event loop/Event loop.md",
-    "JS/Event loop/JS Engine.md",
     "Черновик.md",
-    "Браузер/Архитектура движка рендера.md",
+    "JS/Event loop/Wep api.md",
     "Тестирование/Pasted image 20230715233044.png",
     "Браузер/Pasted image 20230715232908.png",
     "Браузер",
     "JS/Event loop/assets/Pasted image 20230218144525.png",
     "JS/Event loop/assets/Pasted image 20230218143506.png",
     "JS/Event loop/assets/Pasted image 20230218125351.png",
-    "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
     "Архитектура/SOLID/5. DIP - Dependency inversion principle.md",
     "Архитектура/SOLID/4. ISP - Interface segregation principle.md",
     "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
-    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
     "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
-    "Архитектура/Паттерны/Закон Деметры.md",
-    "Архитектура/Паттерны/DRY.md",
-    "Архитектура/Анти-паттерны/Soft code.md",
-    "Архитектура/Паттерны/KISS.md",
-    "Архитектура/GRASP/Protected Variantions.md",
-    "Архитектура/Анти-паттерны/God object.md"
+    "Архитектура/GRASP/Protected Variantions.md"
   ]
 }
