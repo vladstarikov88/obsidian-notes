@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
+                "file": "Основы/1. Функция, контекст, замыкание.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
+                "file": "Основы/1. Функция, контекст, замыкание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
+                "file": "Основы/1. Функция, контекст, замыкание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование/Тестирование Vue/Основы тестирования Vue.md"
+                "file": "Основы/1. Функция, контекст, замыкание.md"
               }
             }
           }
@@ -156,38 +156,49 @@
   },
   "active": "5f561fa748cf9853",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "Основы/Pasted image 20240114173011.png",
+    "Черновик.md",
+    "Основы/1. Функция, контекст, замыкание.md",
+    "Templates.md",
+    "Untitled 1.md",
+    "Основы",
+    "Untitled.md",
+    "Архитектура/Архитектура frontend-приложений/Featured-sliced design.md",
+    "Тестирование/Unit-тестирование JS/Честность и хрупкость.md",
+    "Тестирование/Unit-тестирование JS/Структура Unit-теста.md",
+    "Архитектура/MV* паттерны/_index.md",
+    "Архитектура/SOLID/_index.md",
+    "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
+    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
+    "Архитектура/Архитектура frontend-приложений/_index.md",
+    "Архитектура/Архитектура frontend-приложений/Классическая архитектура.md",
+    "Браузер/Pasted image 20230715233044.png",
+    "Браузер/Pasted image 20230715232908.png",
+    "Браузер/Архитектура движка рендера.md",
+    "Протоколы/HTTP.md",
+    "Тестирование/Unit-тестирование JS/Фикстуры/Фикстуры.md",
+    "Тестирование/Unit-тестирование JS/Семинары/Семинар №1.md",
     "Тестирование/Unit-тестирование JS/Заглушки/Виды загрушек.md",
-    "2023-11-05.md",
-    "Тестирование/Unit-тестирование JS/Заглушки/Pasted image 20220911121950.png",
-    "Тестирование/Unit-тестирование JS/Заглушки/Stub.md",
-    "Тестирование/Тестирование Vue/Основы тестирования Vue.md",
-    "Архитектура/Паттерны/Закон Деметры.md",
+    "Архитектура/MV* паттерны/MVVM.md",
+    "Архитектура/MV* паттерны/MVP.md",
+    "Архитектура/MV* паттерны/MVC.md",
     "Архитектура/Паттерны/DRY.md",
     "Архитектура/Паттерны/KISS.md",
-    "Архитектура/Анти-паттерны/Soft code.md",
-    "Архитектура/Анти-паттерны/God object.md",
-    "Протоколы/HTTP.md",
-    "Архитектура/SOLID/2. OCP - Open-closed principle.md",
-    "Архитектура/Untitled.md",
-    "Templates.md",
-    "Браузер/Архитектура движка рендера.md",
-    "JS/Event loop/JS Engine.md",
-    "JS/Event loop/Micro and Macro tasks.md",
-    "JS/Event loop/Event loop.md",
-    "Черновик.md",
-    "JS/Event loop/Wep api.md",
-    "Тестирование/Pasted image 20230715233044.png",
-    "Браузер/Pasted image 20230715232908.png",
-    "Браузер",
-    "JS/Event loop/assets/Pasted image 20230218144525.png",
-    "JS/Event loop/assets/Pasted image 20230218143506.png",
-    "JS/Event loop/assets/Pasted image 20230218125351.png",
-    "Архитектура/SOLID/5. DIP - Dependency inversion principle.md",
-    "Архитектура/SOLID/4. ISP - Interface segregation principle.md",
-    "Архитектура/SOLID/3. LSP - Liskov substitution principle.md",
-    "Архитектура/SOLID/1. SRP - Single responsibility principle.md",
-    "Архитектура/GRASP/Protected Variantions.md"
+    "Архитектура/Паттерны/Закон Деметры.md",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210131722.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210131604.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210131532.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210130308.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210120125.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210115701.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210115621.png",
+    "Архитектура/Архитектура frontend-приложений/Pasted image 20231210115617.png",
+    "Архитектура/Архитектура frontend-приложений/Untitled",
+    "Архитектура/Архитектура frontend-приложений",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Архитектура/MV* паттерны/assets",
+    "Архитектура/MV* паттерны",
+    "Браузер"
   ]
 }
